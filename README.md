@@ -19,7 +19,8 @@
 This application expects a `config.yml` in the directory where it will be run. This YAML file will indicate which PCF Foundations to pull data from.
 
 Below is a sample of what is expected in the `config.yml`. **At least one PCF foundation is required.**
-Note: `admin_password` corresponds to the PCF UAA Admin user of the foundation.
+
+**Note:** `admin_password` corresponds to the PCF UAA Admin user of the foundation.
 
 ```
 foundations:
